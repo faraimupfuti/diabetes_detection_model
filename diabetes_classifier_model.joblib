@@ -1,0 +1,2 @@
+from google.colab import files
+files.download('diabetes_classifier_model.joblib')
