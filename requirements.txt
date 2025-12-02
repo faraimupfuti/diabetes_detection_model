@@ -1,5 +1,5 @@
 # requirements.txt
 streamlit
-scikit-learn
-joblib
+scikit-learn == version: 1.6.1
+joblib == version: 1.5.2
 numpy
